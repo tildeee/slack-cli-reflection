@@ -38,8 +38,8 @@ Because pairs will need to review each other's code, we suggest scheduling ~1 ho
 ### Instructions for the Reviewed (You)
 
 1. Read through [Ada's guide for How to give a Code Review](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/03-leadership-and-inclusion/pair-feedback-and-code-reviews.md#how-to-give-a-code-review)
-1. Read through the instructions and the Peer Review Table before you get started
-1. Coordinate with your pair so that they fill out [the feedback.md file](feedback.md) for your Slack CLI submission, and commit and push those file changes before the due date.
+1. Read through the instructions below and the [Peer Review feedback file](feedback.md) before you get started
+1. Coordinate with your pair so that they fill out [the Peer Review feedback file](feedback.md) for your Slack CLI submission, and commit and push those file changes before the due date.
 
 ### Instructions for the Reviewer (Your Pair)
 
