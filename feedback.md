@@ -146,3 +146,5 @@
    </td>
   </tr>
 </table>
+
+**At the end of this review, don't forget to commit and push your review. Otherwise, instructors won't be able to see your work.**

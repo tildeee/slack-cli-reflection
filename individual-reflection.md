@@ -4,6 +4,8 @@
 
 Answer the following comprehension questions **within this file.** Write your answer next to the line that says "Answer:".
 
+**At the end of this reflection, don't forget to commit and push your answers. Otherwise, instructors won't be able to see your work.**
+
 ### `GET` Request Review
 
 1. Describe a GET request that your project makes, and the high-level description of what it does
@@ -59,11 +61,11 @@ There are two actors:
   - Slack API
 
 Based on the project requirements, when Grace enters "list channels,"
-  1. What is the request being made in the program?
+1. What is the request being made in the program?
     - Answer: 
-  1. Who is the client?
+1. Who is the client?
     - Answer: 
-  1. Who is the server?
+1. Who is the server?
     - Answer: 
 
 ## Part 2: Optional Refactoring

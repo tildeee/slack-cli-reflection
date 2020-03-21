@@ -53,6 +53,8 @@ Because pairs will need to review each other's code, we suggest scheduling ~1 ho
 
 3. Clone this fork on your computer in a different directory then your own forked repository.
       - Don't clone your pair's Slack CLI project into your normal `projects` folder, because then your computer will say that a project named `slack-cli` already exists. Navigate to or make a different folder for this exercise.
-4. Complete the feedback rubric defined in `feedback.md` by testing the app and reviewing the code. You should be making changes to your reviewee's `feedback.md` file in their `slack-cli-reflection` repo.
+4. Complete the feedback rubric defined in `feedback.md` by testing the app and reviewing the code. You should be making changes to your reviewee's `feedback.md` file in their `slack-cli-reflection` repo. Alter the table cells that say `yes/no` to the appropriate `yes` or `no`.
 
 Tip: Use VS Code's extension "Markdown Preview" in order to help you visualize the feedback table.
+
+**At the end of this review, don't forget to commit and push your review. Otherwise, instructors won't be able to see your work.**
