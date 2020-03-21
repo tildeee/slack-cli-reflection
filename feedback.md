@@ -131,7 +131,7 @@
   </tr>
 
   <tr>
-   <td>3. As a user of the CLI program, I can show the details of a selected user or channel	with the command `details`
+   <td>3. As a user of the CLI program, I can show the details of a selected user or channel	with the command <code>details</code>
    </td>
    <td>
       yes/no
