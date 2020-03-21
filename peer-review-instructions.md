@@ -19,6 +19,9 @@ Don't forget:
 
 - This is not about seeing someone else's perfect code. This is about practicing reading code and giving meaningful feedback to them. Assume best intention while you review code!
 - This is not about defending your code, or thinking that you are defined by your code; also assume best intention!
+- You may be reviewing someone's project that isn't complete! That is 100% perfect and fine; continue to review their code as is.
+- You may be getting reviewed and your project isn't complete! That is 100% perfect and fine; allow your code to be reviewed as is.
+- Ada's philosophy on learning is focused on reflection, collaboration, and strength, so that everyone collectively improves in the future.
 
 ## Requirements
 
