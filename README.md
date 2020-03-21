@@ -31,7 +31,8 @@ Because there is pair coordination that needs to happen, we ask that:
 1. Add your reviewer to your repo as a collaborator
 1. Clone your fork of `slack-cli-reflection`
 1. Answer the questions and follow the prompts described in the [Individual Reflection File](individual-reflection.md). Make sure you commit and push your answers to GitHub.
-1. Coordinate with your pair to help them review your Slack CLI project.
+1. Coordinate with your pair to help them review your Slack CLI project by following the [Slack CLI Peer Review instructions](peer-review-instructions.md).
+1. Coordinate with your pair to review their Slack CLI project by following the Peer Review instructions on their fork of the `slack-cli-reflection` project.
 1. Submit a Pull Request at the end of this, before the due date.
 
 ## Summary
