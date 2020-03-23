@@ -9,7 +9,7 @@ Answer the following comprehension questions **within this file.** Write your an
 ### `GET` Request Review
 
 1. Describe a GET request that your project makes, and the high-level description of what it does
-    - Answer:
+    - Answer: HEYYYYYYYY I'M DEE
 1. What is the verb of this request?
     - Answer:
 1. What is the path (or the URL, or endpoint) of this request?
